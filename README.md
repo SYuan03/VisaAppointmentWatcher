@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 Final Product
-![Final Product](assert\final.jpg)
+![Final Product](assert/final.jpg)
 
 ## 🔥 Features
 
