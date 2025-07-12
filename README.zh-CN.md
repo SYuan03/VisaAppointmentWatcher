@@ -57,7 +57,7 @@ EMAIL_RECEIVER = "xxx@qq.com"
 ### 4. 启动脚本
 
 ```bash
-python visa_monitor.py
+python main.py
 ```
 
 首次运行时请按提示：
