@@ -57,7 +57,7 @@ EMAIL_RECEIVER = "xxx@qq.com"
 ### 4. Run the script
 
 ```bash
-python visa_monitor.py
+python main.py
 ```
 
 Follow the prompt to manually log in, complete any CAPTCHA, then press Enter.
