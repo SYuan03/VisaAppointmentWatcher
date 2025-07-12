@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 Final Product
-![Final Product](assert/final.jpg)
+<img src="assert/final.jpg" alt="Final Product" width="300"/>
 
 ## 🔥 Features
 
