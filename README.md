@@ -10,6 +10,22 @@
 
 ---
 
+## Update  
+[2025.7.15] Updated `main_v2.py` (Potentially more stable than `v1`)
+
+- **Login Completion Flag**:  
+  To indicate that login is complete, **create a `login.flag` file** instead of pressing Enter.  
+  This is necessary because pressing Enter is not possible when the process runs in the background.
+
+- **Important**: You must update the value for your target city.  
+  Refer to the image below to find the correct value, then update the following lines in `main_v2.py`:
+  - https://github.com/SYuan03/VisaAppointmentWatcher/blob/47f2c28e043dd952ae8c6814ae7d2f0651eb5d18/main_v2.py#L17-L20
+  - https://github.com/SYuan03/VisaAppointmentWatcher/blob/47f2c28e043dd952ae8c6814ae7d2f0651eb5d18/main_v2.py#L136
+
+  <img width="1995" height="1299" alt="image" src="https://github.com/user-attachments/assets/3c7c7c23-79ad-47b6-bc7c-95b9bc60d3e1" />
+
+
+
 ## 🚀 Final Product
 <img src="assert/final.jpg" alt="Final Product" width="300"/>
 
